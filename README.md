@@ -27,6 +27,9 @@ Antes de executar o projeto, certifique-se de instalar as seguintes dependência
 - **seaborn**
 - **scikit-learn**
 
+## **Link do Vídeo no YouTube**
+https://youtu.be/xPdHQTBQ9Ic?si=sIvDqGmmnS9tNsiP
+
 ## **Instruções de Execução**
 
 ### 1. **Clonando o Repositório**
@@ -63,5 +66,4 @@ drive.mount('/content/drive')
 # - Gráficos de treinamento (curvas de perda e acurácia).
 # - Métricas detalhadas como precision, recall e F1-score.
 # - Matriz de confusão para análise detalhada.
-
 
